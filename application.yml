@@ -1,0 +1,3 @@
+external:
+  property:
+    src: Reading property from git repo
