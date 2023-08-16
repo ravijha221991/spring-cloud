@@ -1,3 +1,4 @@
 external:
   property:
-    src: this is result of open folder property
+    src:
+      open: this is result of open folder property
