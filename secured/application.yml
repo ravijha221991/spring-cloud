@@ -1,0 +1,3 @@
+external:
+  property:
+    src: this is result of secured folder property
